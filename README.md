@@ -11,7 +11,7 @@ Hi, I'm Shaddam Alghafiqih Bazda, a frontend engineer from Indonesia
 
 - Coming Soon
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=shaddamalghafiqih&show_icons=true&theme=dracula&hide=stars,issues)
+![My github stats](https://github-readme-stats.vercel.app/api?username=shaddamalbz&show_icons=true&theme=dracula&hide=stars,issues)
 
 ![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
 ![pv](https://pageview.vercel.app/?github_user=shaddamalghafiqih)
