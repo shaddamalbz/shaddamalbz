@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Shaddam</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-Hi, I'm Shaddam Alghafiqih Bazda, a frontend engineer from Indonesia
+Hi, I'm Shaddam Alghafiqih Bazdha, a frontend engineer from Indonesia
 
 ### Tech Stack
 
